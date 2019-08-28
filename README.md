@@ -1,1 +1,1 @@
-# vue-js-crud-laravel
+# vue-js-crud-laravel-deprecated-security
